@@ -50,16 +50,14 @@
     <link href="http://www.iQuan.top//blog/2017/03/Hexo%E9%83%A8%E7%BD%B2Github%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91.html"/>
     <id>http://www.iQuan.top//blog/2017/03/Hexo部署Github遇到的坑.html</id>
     <published>2017-03-15T03:39:07.000Z</published>
-    <updated>2017-03-15T08:47:00.303Z</updated>
+    <updated>2017-03-15T08:55:46.089Z</updated>
     
-    <content type="html"><![CDATA[<p>###坑1.出现fatal: Not a git repository (or any of the parent directories): .git</p>
-<ul>
+    <content type="html"><![CDATA[<h3 id="坑1-出现fatal-Not-a-git-repository-or-any-of-the-parent-directories-git"><a href="#坑1-出现fatal-Not-a-git-repository-or-any-of-the-parent-directories-git" class="headerlink" title="坑1.出现fatal: Not a git repository (or any of the parent directories): .git"></a>坑1.出现fatal: Not a git repository (or any of the parent directories): .git</h3><ul>
 <li>通过检索删除.git开头的文件和文件夹</li>
 <li>移除.deploy_git文件夹</li>
 <li>执行hexo d</li>
 </ul>
-<p>###坑2: Permission denied (publickey)</p>
-<ul>
+<h3 id="坑2-Permission-denied-publickey"><a href="#坑2-Permission-denied-publickey" class="headerlink" title="坑2: Permission denied (publickey)"></a>坑2: Permission denied (publickey)</h3><ul>
 <li>如果你没有SSH key，移步设置<a href="http://www.cnblogs.com/xinxiandong/p/3867505.html" target="_blank" rel="external">GitHub博客hexo建站之设置SSH 密钥（keys）</a></li>
 <li>如果你已经设置，并且使用ssh -T git@github.com 测试为连接成功，但是就是不能部署。用 <code>Git Bash</code>执行 hexo d 则可以正常部署。</li>
 <li>用 <code>Git Bash</code>执行 hexo d 则可以正常部署。</li>
@@ -70,10 +68,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;###坑1.出现fatal: Not a git repository (or any of the parent directories): .git&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;通过检索删除.git开头的文件和文件夹&lt;/li&gt;
-&lt;li&gt;移除.deploy_git文件夹&lt;/
+      &lt;h3 id=&quot;坑1-出现fatal-Not-a-git-repository-or-any-of-the-parent-directories-git&quot;&gt;&lt;a href=&quot;#坑1-出现fatal-Not-a-git-repository-or-any-of-the-parent
     
     </summary>
     
@@ -81,6 +76,61 @@
     
     
       <category term="Hexo" scheme="http://www.iQuan.top/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>付费社交的思考</title>
+    <link href="http://www.iQuan.top//blog/2017/03/%E4%BB%98%E8%B4%B9%E7%A4%BE%E4%BA%A4%E7%9A%84%E6%80%9D%E8%80%83.html"/>
+    <id>http://www.iQuan.top//blog/2017/03/付费社交的思考.html</id>
+    <published>2017-03-14T06:52:58.000Z</published>
+    <updated>2017-03-15T03:03:10.803Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="小蜜的启发"><a href="#小蜜的启发" class="headerlink" title="小蜜的启发"></a>小蜜的启发</h3><p>我是昨天的一个偶然机会得知小蜜圈的存在，发现后就觉得付费社交很可能继熟人社交后下一个社交重点（热点）。通过版本查询得知小密圈对外公布时间是2016年5月，截至目前为止大半年的时间，在没有见到大范围的广告宣传下，得道很多大V的支持说明其基于知识的付费社交圈有其市场的存在，也有其发展。<br><a id="more"></a></p>
+<h3 id="知识-金钱？"><a href="#知识-金钱？" class="headerlink" title="知识==金钱？"></a>知识==金钱？</h3><blockquote>
+<p>知识==金钱：这也就是为什么最近炒的火热的付费阅读、有赏分享和知识套现的主要观点</p>
+</blockquote>
+<p>从我们读书起，有个观点被大家广为接受却不愿明面认可，那就是我们的知识可以通过金钱换取。说广为接受是我们所目及的，无数人为了获取知识不惜下重金请来名人专家传授他们的学识。说不认可是因我们骨子里觉得这太俗了，知识是多么高大上的东西怎能通过金钱而获得。但纵观历史会发现，无论是古代的私塾还是现代的学校，剥离外在就是父母请来育人者让他们为自己的孩子服务，服务的内容是他们所掌握的技能或观念，报酬就是拜师礼或学费。</p>
+<blockquote>
+<p>知识!=金钱：学海无涯，对于个人而言知识是学不完也获取不完的，金钱不过是把筛子，用来节省时间而已</p>
+</blockquote>
+<p>是否只有付出了金钱才能获取知识，我想大伙并不认可。只有你愿意通过互联网就能获取大量的免费知识，光我们每天获取的知识能远超过古人一个月乃至一年获取的知识量，在维基百科或读书网你可以不花一分钱读你一生都可能读不完的书。而人的时间是有限的，一天就24小时，一小时就60分钟。你将时间花在了寻找知识的道路上，自然你学习的时间就减少了。</p>
+<h3 id="我们的目的"><a href="#我们的目的" class="headerlink" title="我们的目的"></a>我们的目的</h3><blockquote>
+<p>做一个小蜜圈？是，也不全是。</p>
+</blockquote>
+<p>是，是因为我们确实想做个付费类、精英社交圈。扩展人们的知识于眼界也拓展精英社区的人脉。说不是，是觉得付费社交圈，并一定要以圈而存在，我们更希望是以问答为基础的，再形成圈子。付费问答能让人能快速的获取答案，也让有学识的人获取一定的报酬。</p>
+<blockquote>
+<p>能为用户提供什么？</p>
+</blockquote>
+<ul>
+<li>提供有赏类型的问答</li>
+<li>提供付费才能进入的名人圈</li>
+<li>打破用户的知识壁垒，开阔眼界</li>
+<li>扩展用户知识人脉</li>
+</ul>
+<blockquote>
+<p>付费不是目的而是一种手段</p>
+</blockquote>
+<ul>
+<li>节省求知者的时间</li>
+<li>让有学识的人获取报酬</li>
+<li>让兴趣相同的人，能走到一起</li>
+<li>提高门槛防止有人微商，或谣言</li>
+<li>维持团队存活</li>
+</ul>
+<h3 id="我们有没有可能超越小蜜？"><a href="#我们有没有可能超越小蜜？" class="headerlink" title="我们有没有可能超越小蜜？"></a>我们有没有可能超越小蜜？</h3><p>能不能超过小蜜我不敢说一定，但机会还是有的。一、这个市场刚刚兴起格局还未定下，我们大有可为。二、虽然我们在大部分上和小蜜重合，但我们基础还是不同，小蜜以建立圈子为基础，我们以问答为基础再聚合圈子，其目的是帮用户答疑解惑。三、微信前面还有米聊，一切还未知。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;小蜜的启发&quot;&gt;&lt;a href=&quot;#小蜜的启发&quot; class=&quot;headerlink&quot; title=&quot;小蜜的启发&quot;&gt;&lt;/a&gt;小蜜的启发&lt;/h3&gt;&lt;p&gt;我是昨天的一个偶然机会得知小蜜圈的存在，发现后就觉得付费社交很可能继熟人社交后下一个社交重点（热点）。通过版本查询得知小密圈对外公布时间是2016年5月，截至目前为止大半年的时间，在没有见到大范围的广告宣传下，得道很多大V的支持说明其基于知识的付费社交圈有其市场的存在，也有其发展。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="个人" scheme="http://www.iQuan.top/categories/%E4%B8%AA%E4%BA%BA/"/>
+    
+    
+      <category term="胡思乱想" scheme="http://www.iQuan.top/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
     
   </entry>
   
@@ -163,61 +213,6 @@
     
     
       <category term="沃百富" scheme="http://www.iQuan.top/tags/%E6%B2%83%E7%99%BE%E5%AF%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>付费社交的思考</title>
-    <link href="http://www.iQuan.top//blog/2017/03/%E4%BB%98%E8%B4%B9%E7%A4%BE%E4%BA%A4%E7%9A%84%E6%80%9D%E8%80%83.html"/>
-    <id>http://www.iQuan.top//blog/2017/03/付费社交的思考.html</id>
-    <published>2017-03-14T06:52:58.000Z</published>
-    <updated>2017-03-15T03:03:10.803Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="小蜜的启发"><a href="#小蜜的启发" class="headerlink" title="小蜜的启发"></a>小蜜的启发</h3><p>我是昨天的一个偶然机会得知小蜜圈的存在，发现后就觉得付费社交很可能继熟人社交后下一个社交重点（热点）。通过版本查询得知小密圈对外公布时间是2016年5月，截至目前为止大半年的时间，在没有见到大范围的广告宣传下，得道很多大V的支持说明其基于知识的付费社交圈有其市场的存在，也有其发展。<br><a id="more"></a></p>
-<h3 id="知识-金钱？"><a href="#知识-金钱？" class="headerlink" title="知识==金钱？"></a>知识==金钱？</h3><blockquote>
-<p>知识==金钱：这也就是为什么最近炒的火热的付费阅读、有赏分享和知识套现的主要观点</p>
-</blockquote>
-<p>从我们读书起，有个观点被大家广为接受却不愿明面认可，那就是我们的知识可以通过金钱换取。说广为接受是我们所目及的，无数人为了获取知识不惜下重金请来名人专家传授他们的学识。说不认可是因我们骨子里觉得这太俗了，知识是多么高大上的东西怎能通过金钱而获得。但纵观历史会发现，无论是古代的私塾还是现代的学校，剥离外在就是父母请来育人者让他们为自己的孩子服务，服务的内容是他们所掌握的技能或观念，报酬就是拜师礼或学费。</p>
-<blockquote>
-<p>知识!=金钱：学海无涯，对于个人而言知识是学不完也获取不完的，金钱不过是把筛子，用来节省时间而已</p>
-</blockquote>
-<p>是否只有付出了金钱才能获取知识，我想大伙并不认可。只有你愿意通过互联网就能获取大量的免费知识，光我们每天获取的知识能远超过古人一个月乃至一年获取的知识量，在维基百科或读书网你可以不花一分钱读你一生都可能读不完的书。而人的时间是有限的，一天就24小时，一小时就60分钟。你将时间花在了寻找知识的道路上，自然你学习的时间就减少了。</p>
-<h3 id="我们的目的"><a href="#我们的目的" class="headerlink" title="我们的目的"></a>我们的目的</h3><blockquote>
-<p>做一个小蜜圈？是，也不全是。</p>
-</blockquote>
-<p>是，是因为我们确实想做个付费类、精英社交圈。扩展人们的知识于眼界也拓展精英社区的人脉。说不是，是觉得付费社交圈，并一定要以圈而存在，我们更希望是以问答为基础的，再形成圈子。付费问答能让人能快速的获取答案，也让有学识的人获取一定的报酬。</p>
-<blockquote>
-<p>能为用户提供什么？</p>
-</blockquote>
-<ul>
-<li>提供有赏类型的问答</li>
-<li>提供付费才能进入的名人圈</li>
-<li>打破用户的知识壁垒，开阔眼界</li>
-<li>扩展用户知识人脉</li>
-</ul>
-<blockquote>
-<p>付费不是目的而是一种手段</p>
-</blockquote>
-<ul>
-<li>节省求知者的时间</li>
-<li>让有学识的人获取报酬</li>
-<li>让兴趣相同的人，能走到一起</li>
-<li>提高门槛防止有人微商，或谣言</li>
-<li>维持团队存活</li>
-</ul>
-<h3 id="我们有没有可能超越小蜜？"><a href="#我们有没有可能超越小蜜？" class="headerlink" title="我们有没有可能超越小蜜？"></a>我们有没有可能超越小蜜？</h3><p>能不能超过小蜜我不敢说一定，但机会还是有的。一、这个市场刚刚兴起格局还未定下，我们大有可为。二、虽然我们在大部分上和小蜜重合，但我们基础还是不同，小蜜以建立圈子为基础，我们以问答为基础再聚合圈子，其目的是帮用户答疑解惑。三、微信前面还有米聊，一切还未知。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;小蜜的启发&quot;&gt;&lt;a href=&quot;#小蜜的启发&quot; class=&quot;headerlink&quot; title=&quot;小蜜的启发&quot;&gt;&lt;/a&gt;小蜜的启发&lt;/h3&gt;&lt;p&gt;我是昨天的一个偶然机会得知小蜜圈的存在，发现后就觉得付费社交很可能继熟人社交后下一个社交重点（热点）。通过版本查询得知小密圈对外公布时间是2016年5月，截至目前为止大半年的时间，在没有见到大范围的广告宣传下，得道很多大V的支持说明其基于知识的付费社交圈有其市场的存在，也有其发展。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="个人" scheme="http://www.iQuan.top/categories/%E4%B8%AA%E4%BA%BA/"/>
-    
-    
-      <category term="胡思乱想" scheme="http://www.iQuan.top/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
     
   </entry>
   
